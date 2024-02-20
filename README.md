@@ -11,14 +11,12 @@ The data provided has been pre-cleaned and prepared. The main tasks which this p
 
 For more information on the project requirements and my own planning process please refer to the following documents I created (in pdf form):
 
-* Stakeholder Requirements
-* Project Requirements
-* Strategy Document
+* [Stakeholder Requirements](https://github.com/TheDataDean/google-bi-cert-project_google-fiber/blob/main/Stakeholder-Requirements-Document_Google-Fiber.pdf)
+* [Project Requirements](https://github.com/TheDataDean/google-bi-cert-project_google-fiber/blob/main/Project-Requirements-Document_Google-Fiber.pdf)
+* [Strategy Document](https://github.com/TheDataDean/google-bi-cert-project_google-fiber/blob/main/Strategy-Document_Google-Fiber.pdf)
 
 ## [View the full interactive dashboard on Tableau here](https://public.tableau.com/app/profile/dean.walsh/viz/GoogleFiberRepeatCallAnalysis_17084368882100/GoogleFiberRepeatCallAnalysis)
 
-Or take a look at this snapshot:
+Or take a look at this snapshot of the first page here:
 
-
-
-
+![Google Fiber repeat call analysis story on Tableau](https://github.com/TheDataDean/google-bi-cert-project_google-fiber/blob/main/Google%20Fiber%20Repeat%20Call%20Analysis.png)
