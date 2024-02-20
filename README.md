@@ -4,7 +4,9 @@ This is my end of course project for Google's Business Intelligence Professional
 
 It is based on an imaginary scenario in which I am a junior business analyst working with the management team within a technical support call centre. My goal is to create an interactive dashboard which which will enable to team to investigate trends in repeat caller volume in order to identify potential actions to reduce the number repeat calls required to successfully close customer issues, therefore reducing costs and increasing customer satisfaction.
 
-The data provided has been pre-cleaned and prepared. The main tasks which this project tests are:
+The data provided has been pre-cleaned and prepared. My only job was to combine the three csv files provided to me into a single target table. This could easily have been done in Tableau where I created the dashboard, but this was used as an example during a lesson on using GCP for creating data piplines during the course it was completed in SQL using a simple 'UNION' statement. You can view the code here.
+
+. The main tasks which this project tests are:
 
 1) The ability to formally plan and implement a project with all of the necessary paperwork based on an intial verbal brief and follow up email.
 2) The creation of an interactive dashboard in Tableau with appropriate metrics, calculated fields, filters and presentation.
